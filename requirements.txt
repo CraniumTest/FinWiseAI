@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+transformers
+flask
+psycopg2
+sqlalchemy
+requests
+beautifulsoup4
+nltk
+spacy
+matplotlib
+plotly
